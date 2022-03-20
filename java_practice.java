@@ -9,8 +9,7 @@ public class java_practice {
         System.out.println("commit?");
         System.out.println("commit?");
         System.out.println("comedqwerqwewqemit?");
-        System.out.println("commit?");
-        System.out.println("commit?");
+        System.out.println("comsdsdsdsds?????mit?");
         System.out.println("commit?");
         System.out.println("commit?");
         System.out.println("commit?");
