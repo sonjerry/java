@@ -8,14 +8,14 @@ public class java_practice {
 
         System.out.println("commit?");
         System.out.println("commit?");
+        System.out.println("comedqwerqwewqemit?");
         System.out.println("commit?");
         System.out.println("commit?");
         System.out.println("commit?");
         System.out.println("commit?");
         System.out.println("commit?");
         System.out.println("commit?");
-        System.out.println("commit?");
-        
+
 
         double c = 0;
         Scanner scan1 = new Scanner(System.in);
