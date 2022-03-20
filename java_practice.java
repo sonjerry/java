@@ -3,7 +3,19 @@ public class java_practice {
     public static void main(String[] args) {
         double b = 0;
         System.out.println("hello!");
+        System.out.println("commit?");
 
+
+        System.out.println("commit?");
+        System.out.println("commit?");
+        System.out.println("commit?");
+        System.out.println("commit?");
+        System.out.println("commit?");
+        System.out.println("commit?");
+        System.out.println("commit?");
+        System.out.println("commit?");
+        System.out.println("commit?");
+        
 
         double c = 0;
         Scanner scan1 = new Scanner(System.in);
